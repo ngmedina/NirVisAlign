@@ -30,6 +30,8 @@ This macro allows for the alignment of Near Infrared (NIR) and visible RGB (VIS)
 2. **Download the macro**  
    On the repository page, click the "more file actions" button. A dropdown menu will appear. In the dropdown, select "Download" This will download the macro file.
 
+    <img src="https://github.com/ngmedina/NirVisAlign/blob/main/Download%20macro1.png" alt="ImageJscreenshot1" width="700"/>
+
 ### Step 2: Open the Macro Script in ImageJ/Fiji
 
 1. **Open ImageJ/Fiji**  
